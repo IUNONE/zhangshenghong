@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://IUNONE.github.io/al-folio/sitemap.xml
+Sitemap: https://iunone.github.io/sitemap.xml
