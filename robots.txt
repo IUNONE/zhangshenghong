@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://iunone.github.io/sitemap.xml
+Sitemap: https://iunone.github.io/zhangshenghong/sitemap.xml
